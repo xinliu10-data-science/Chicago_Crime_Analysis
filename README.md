@@ -14,5 +14,7 @@ II. Dataset
 -----------
 The dataset used in this project was retrieved from [Chicago Data Portal](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2). It has 6944111 records and 22 columns. Each row is a reported crime. 
 
-III. 
-
+III. Analysis
+-------------
+The analyses were performed using Spark on Databricks. Click on the link for code, analysis and more. 
+[Chicago Crime Analysis and Modeling](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2869379551735665/1794444210621927/7477828018216125/latest.html)
