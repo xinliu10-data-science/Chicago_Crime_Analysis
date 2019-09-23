@@ -12,4 +12,4 @@ The second part is a clustering analysis and visualization of the spatial distri
 
 II. Dataset 
 -----------
-The dataset used in this project is retrieved from Chicago Data Portal . 
+The dataset used in this project is retrieved from [Chicago Data Portal] (https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2). 
